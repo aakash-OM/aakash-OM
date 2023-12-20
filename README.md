@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aakash Mittal
 - 👀 I’m interested in the world of AI
-- 🌱 I’m currently learning AI-ML Models
-- 💞️ I’m looking for Data Science Jobs.
 - 📫 How to reach me ...
      aakashmittal0207@gmail.com
 
